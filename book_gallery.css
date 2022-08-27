@@ -1,0 +1,17 @@
+div
+{
+    background-color:lightpink;
+    height: 500px;
+    width:19.5%;
+    float: left;
+    border: 3px solid white;
+    text-align: center;
+    /* padding: 2px; */
+    border-radius: 18px;
+
+}
+img{
+    height: 150px;
+    width: 40%;
+
+}
